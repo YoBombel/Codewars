@@ -38,7 +38,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -49,7 +50,23 @@
       <recent name="org.example.Fundamentals" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.BreakCamelCaseTest.tests">
+    <configuration name="BreakCamelCaseTest.tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Fundamentals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Fundamentals" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Fundamentals.BreakCamelCaseTest" />
+      <option name="METHOD_NAME" value="tests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DifferenceOfVolumesOfCuboidsTest.sampleTestCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
@@ -68,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BreakCamelCaseTest.tests" />
         <item itemvalue="JUnit.DifferenceOfVolumesOfCuboidsTest.sampleTestCases" />
       </list>
     </recent_temporary>
@@ -81,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678183496944</updated>
       <workItem from="1678183498705" duration="111000" />
-      <workItem from="1678197543367" duration="710000" />
+      <workItem from="1678197543367" duration="2632000" />
     </task>
     <servers />
   </component>
