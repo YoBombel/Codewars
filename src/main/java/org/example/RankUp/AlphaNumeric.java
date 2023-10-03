@@ -21,4 +21,8 @@ public class AlphaNumeric {
         return matcher.find();
     }
 
+    public static boolean alphanumericBest(String s) {
+        return s.matches("[A-Za-z0-9]+");
+    }
+
 }
